@@ -1,0 +1,32 @@
+html{
+	font-family: "Gilda Display", serif;
+	background-color: lightgreen;
+	text-align: center;
+}
+
+header{
+	background-image: url('../image/hearts.jpg')
+	background-repeat: repeat;
+}
+
+
+
+#fireworks{
+	width: 27%
+}
+#carbonara{
+	width: 27%
+}
+#hotass{
+	width: 27%
+}
+
+#piano{
+	width: 27%
+}
+#plugga{
+	width: 27%
+}
+#censored{
+	width: 27%
+}
